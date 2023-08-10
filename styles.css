@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: 0;
+}
+
+h2 {
+    color: #333333;
+    font-family: 'Inconsolata', monospace;
+    font-size: 1.5rem;
+
+    margin: 2.5rem;
+}
+
+img {
+    width: 33.70125rem;
+}
+
+h1 {
+    color: #333333;
+    font-family: 'Space Mono', monospace;
+    font-size: 4rem;
+    margin-bottom: 2.25rem;
+}
+
+p {
+    color: #4F4F4F;
+    font-family: 'Space Mono', monospace;
+    font-size: 1.5rem;
+    margin-bottom: 4rem;
+}
+
+button {
+    color: #ffffff;
+    background-color: #333333;
+    font-family: 'Space Mono', monospace;
+    font-size: 0,875rem;
+
+    padding: 24px 43px 23px 43px;
+}
+
+button:hover {
+    background-color: #222222;
+    cursor: pointer;
+}
+
+#tudo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 7.42375rem;
+}
